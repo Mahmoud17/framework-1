@@ -1,0 +1,17 @@
+.container {
+  max-width: 900px;
+  height: 70vh
+}
+input {
+  border: 0;
+  margin:3rem 0;
+  border-bottom: 2px solid lightgrey;
+  outline: 0;
+  width: 100%;
+}
+
+button {
+  background-color: #1abc9c;
+  border: 0;
+  padding: 5px 10px;
+}

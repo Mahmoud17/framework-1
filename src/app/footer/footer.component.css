@@ -1,0 +1,14 @@
+footer {
+  background-color: #2C3E50;
+}
+
+li {
+  border-radius: 50%;
+  border: 2px solid white;
+  padding: 5px 10px;
+  text-align: center;
+}
+.cp {
+  background-color: #1A252F;
+  margin: 0
+}

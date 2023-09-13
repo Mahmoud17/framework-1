@@ -1,0 +1,11 @@
+main {
+  background-color: #1ABC9C;
+  height: 85vh;
+}
+
+img {width: 250px}
+
+.active-link {
+  background-color: #1ABC9C;
+  color: white;
+}
